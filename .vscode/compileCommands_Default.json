@@ -1,0 +1,58 @@
+[
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\Source\\GAS_and_Multiplayer\\GAS_and_Multiplayer.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\.vscode\\compileCommands_Default\\GAS_and_Multiplayer.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\Source\\GAS_and_Multiplayer\\GAS_and_Multiplayer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\.vscode\\compileCommands_Default\\GAS_and_Multiplayer.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\Source\\GAS_and_Multiplayer\\GAS_and_Multiplayer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\.vscode\\compileCommands_Default\\GAS_and_Multiplayer.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\Source\\GAS_and_Multiplayer\\GAS_and_MultiplayerCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\.vscode\\compileCommands_Default\\GAS_and_Multiplayer.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\Source\\GAS_and_Multiplayer\\GAS_and_MultiplayerCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\.vscode\\compileCommands_Default\\GAS_and_Multiplayer.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\Source\\GAS_and_Multiplayer\\GAS_and_MultiplayerGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\.vscode\\compileCommands_Default\\GAS_and_Multiplayer.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\Source\\GAS_and_Multiplayer\\GAS_and_MultiplayerGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\.vscode\\compileCommands_Default\\GAS_and_Multiplayer.1.rsp"
+		],
+		"directory": "F:\\unreal engine 5.5\\UE_5.5\\Engine\\Source"
+	}
+]

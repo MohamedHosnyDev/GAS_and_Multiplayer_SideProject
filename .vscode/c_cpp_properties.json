@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "GAS_and_MultiplayerEditor Editor Win64 Development (GAS_and_Multiplayer)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\.vscode\\compileCommands_GAS_and_Multiplayer.json"
+            ]
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": [
+                "F:\\unreal 5.5 projects\\projects\\GAS_and_Multiplayer\\.vscode\\compileCommands_Default.json"
+            ]
+        }
+    ],
+    "version": 4
+}
