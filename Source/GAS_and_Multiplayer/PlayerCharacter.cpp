@@ -338,10 +338,10 @@ float APlayerCharacter::GetFlyingEnergyPercentage() const
 	return CurrentFlyingEnergy / MaxFlyingEnergy ;
 }
 
-float APlayerCharacter::GetCurrentAmmu() const
+float APlayerCharacter::GetCurrentAmmo() const
 {
-	float CurrentAmmu = AbilitySystemComponent->GetNumericAttribute(UGASAttributeSet::GetAmmuAttribute());
-	return CurrentAmmu ;
+	float CurrentAmmo = AbilitySystemComponent->GetNumericAttribute(UGASAttributeSet::GetAmmoAttribute());
+	return CurrentAmmo ;
 }
 
 float APlayerCharacter::GetMovingRotationYawValue() const

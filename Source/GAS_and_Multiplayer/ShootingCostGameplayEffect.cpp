@@ -9,7 +9,7 @@
 UShootingCostGameplayEffect::UShootingCostGameplayEffect()
 {
     FGameplayModifierInfo ModifierInfo;
-    ModifierInfo.Attribute = UGASAttributeSet::GetAmmuAttribute();
+    ModifierInfo.Attribute = UGASAttributeSet::GetAmmoAttribute();
     ModifierInfo.ModifierOp = EGameplayModOp::Additive;
     ModifierInfo.ModifierMagnitude = FScalableFloat(-1.0f); 
     Modifiers.Add(ModifierInfo);

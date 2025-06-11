@@ -135,7 +135,7 @@ public:
 	UFUNCTION(BlueprintPure)
 	float GetFlyingEnergyPercentage() const;
 	UFUNCTION(BlueprintPure)
-	float GetCurrentAmmu() const ;
+	float GetCurrentAmmo() const ;
 	UFUNCTION(BlueprintPure)
 	float GetMovingRotationYawValue() const;
 

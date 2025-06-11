@@ -11,7 +11,7 @@ void UGASAttributeSet::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& Out
     Super::GetLifetimeReplicatedProps(OutLifetimeProps);
     
     DOREPLIFETIME(UGASAttributeSet, Health);
-    DOREPLIFETIME(UGASAttributeSet, Ammu);
+    DOREPLIFETIME(UGASAttributeSet, Ammo);
     DOREPLIFETIME(UGASAttributeSet, FlyingEnergy);
     
 }

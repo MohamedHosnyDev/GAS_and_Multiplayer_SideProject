@@ -16,7 +16,7 @@ UShootingCooldownGameplayEffect::UShootingCooldownGameplayEffect()
     So we set the duration magnitude depending of the character`s types (Player or AI) */ 
 
     FGameplayModifierInfo ModifierInfo;
-    ModifierInfo.Attribute = UGASAttributeSet::GetAmmuAttribute();
+    ModifierInfo.Attribute = UGASAttributeSet::GetAmmoAttribute();
     ModifierInfo.ModifierOp = EGameplayModOp::Additive;
     ModifierInfo.ModifierMagnitude = FScalableFloat(1.0f); 
     Modifiers.Add(ModifierInfo);

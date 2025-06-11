@@ -30,8 +30,8 @@ public:
 	ATTRIBUTE_ACCESSORS(UGASAttributeSet, Health)
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Attributes", Replicated)
-	FGameplayAttributeData Ammu ;
-	ATTRIBUTE_ACCESSORS(UGASAttributeSet, Ammu)
+	FGameplayAttributeData Ammo ;
+	ATTRIBUTE_ACCESSORS(UGASAttributeSet, Ammo)
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Attributes", Replicated)
 	FGameplayAttributeData FlyingEnergy ;
